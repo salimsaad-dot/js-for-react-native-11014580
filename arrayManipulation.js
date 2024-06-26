@@ -10,9 +10,9 @@ function processArray(arr) {
 }
 
 // Example usage
-const inputArray = [1, 2, 3, 4, 5];
+const inputArray = [11, 12, 13, 14, 15];
  const result = processArray(inputArray);
-console.log(result); // Output: [3, 4, 9, 16, 15]
+console.log(result); // Output: [33, 144, 39, 196, 45]
 
 
 
